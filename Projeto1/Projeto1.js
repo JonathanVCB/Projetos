@@ -126,7 +126,7 @@ if (resposta == 0) {
   console.log("Jonathan fracassou antes mesmo de chegar na rodovia");
 } else if (resposta == 3) {
   console.log(
-    "Jonathan chegou muito perder de conseguir, mas foi morto pelos zumbis"
+    "Jonathan chegou muito perto de conseguir, mas foi morto pelos zumbis"
   );
 } else if (resposta == 4) {
   console.log(
